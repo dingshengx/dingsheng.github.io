@@ -3,11 +3,11 @@
   <title>dingsheng&#39;s Blog</title>
   
   <subtitle>应无所住而生其心</subtitle>
-  <link href="https://nyanpasu.space/hexo-theme-maoblog/atom.xml" rel="self"/>
+  <link href="https://dingsheng.github.io/atom.xml" rel="self"/>
   
-  <link href="https://nyanpasu.space/hexo-theme-maoblog/"/>
+  <link href="https://dingsheng.github.io/"/>
   <updated>2024-10-24T06:40:31.117Z</updated>
-  <id>https://nyanpasu.space/hexo-theme-maoblog/</id>
+  <id>https://dingsheng.github.io/</id>
   
   <author>
     <name>dingsheng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>heimu test</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2023/08/heimu/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2023/08/heimu/</id>
+    <link href="https://dingsheng.github.io/2023/08/heimu/"/>
+    <id>https://dingsheng.github.io/2023/08/heimu/</id>
     <published>2023-08-19T16:00:00.000Z</published>
     <updated>2024-10-24T06:40:31.117Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>mermaid test</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2023/08/mermaid/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2023/08/mermaid/</id>
+    <link href="https://dingsheng.github.io/2023/08/mermaid/"/>
+    <id>https://dingsheng.github.io/2023/08/mermaid/</id>
     <published>2023-08-14T16:00:00.000Z</published>
     <updated>2024-10-24T06:40:31.118Z</updated>
     
@@ -58,14 +58,14 @@
     
     
     
-    <category term="Test" scheme="https://nyanpasu.space/hexo-theme-maoblog/tags/Test/"/>
+    <category term="Test" scheme="https://dingsheng.github.io/tags/Test/"/>
     
   </entry>
   
   <entry>
     <title>Code Highlight Style test</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2019/07/code-highlight/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2019/07/code-highlight/</id>
+    <link href="https://dingsheng.github.io/2019/07/code-highlight/"/>
+    <id>https://dingsheng.github.io/2019/07/code-highlight/</id>
     <published>2019-07-25T08:43:00.000Z</published>
     <updated>2024-10-24T06:40:31.116Z</updated>
     
@@ -81,8 +81,8 @@
   
   <entry>
     <title>Markdown Style test</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2018/07/markdown/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2018/07/markdown/</id>
+    <link href="https://dingsheng.github.io/2018/07/markdown/"/>
+    <id>https://dingsheng.github.io/2018/07/markdown/</id>
     <published>2018-07-24T15:31:06.000Z</published>
     <updated>2024-10-24T06:40:31.118Z</updated>
     
@@ -94,16 +94,16 @@
     
     
     
-    <category term="Foo" scheme="https://nyanpasu.space/hexo-theme-maoblog/tags/Foo/"/>
+    <category term="Foo" scheme="https://dingsheng.github.io/tags/Foo/"/>
     
-    <category term="Bar" scheme="https://nyanpasu.space/hexo-theme-maoblog/tags/Bar/"/>
+    <category term="Bar" scheme="https://dingsheng.github.io/tags/Bar/"/>
     
   </entry>
   
   <entry>
     <title>Images</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/images/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/images/</id>
+    <link href="https://dingsheng.github.io/2013/12/images/"/>
+    <id>https://dingsheng.github.io/2013/12/images/</id>
     <published>2013-12-26T14:46:49.000Z</published>
     <updated>2024-10-24T06:40:31.118Z</updated>
     
@@ -123,8 +123,8 @@
   
   <entry>
     <title></title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/no-title/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/no-title/</id>
+    <link href="https://dingsheng.github.io/2013/12/no-title/"/>
+    <id>https://dingsheng.github.io/2013/12/no-title/</id>
     <published>2013-12-25T14:57:49.000Z</published>
     <updated>2024-10-24T06:40:31.119Z</updated>
     
@@ -144,8 +144,8 @@
   
   <entry>
     <title>Excerpts</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/excerpts/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/excerpts/</id>
+    <link href="https://dingsheng.github.io/2013/12/excerpts/"/>
+    <id>https://dingsheng.github.io/2013/12/excerpts/</id>
     <published>2013-12-24T16:23:23.000Z</published>
     <updated>2024-10-24T06:40:31.116Z</updated>
     
@@ -161,8 +161,8 @@
   
   <entry>
     <title>Videos</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/videos/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/videos/</id>
+    <link href="https://dingsheng.github.io/2013/12/videos/"/>
+    <id>https://dingsheng.github.io/2013/12/videos/</id>
     <published>2013-12-24T16:19:15.000Z</published>
     <updated>2024-10-24T06:40:31.120Z</updated>
     
@@ -183,8 +183,8 @@
   
   <entry>
     <title>Gallery Post</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/gallery-post/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/gallery-post/</id>
+    <link href="https://dingsheng.github.io/2013/12/gallery-post/"/>
+    <id>https://dingsheng.github.io/2013/12/gallery-post/</id>
     <published>2013-12-24T16:16:18.000Z</published>
     <updated>2024-10-24T06:40:31.117Z</updated>
     
@@ -208,8 +208,8 @@
   
   <entry>
     <title>Tag Plugins</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/tag-plugins/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/tag-plugins/</id>
+    <link href="https://dingsheng.github.io/2013/12/tag-plugins/"/>
+    <id>https://dingsheng.github.io/2013/12/tag-plugins/</id>
     <published>2013-12-24T16:14:39.000Z</published>
     <updated>2024-10-24T06:40:31.119Z</updated>
     
@@ -229,8 +229,8 @@
   
   <entry>
     <title>formulary test</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/formulary/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/formulary/</id>
+    <link href="https://dingsheng.github.io/2013/12/formulary/"/>
+    <id>https://dingsheng.github.io/2013/12/formulary/</id>
     <published>2013-12-24T15:33:26.000Z</published>
     <updated>2024-10-24T06:40:31.116Z</updated>
     
@@ -250,8 +250,8 @@
   
   <entry>
     <title>日本語テスト</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
+    <link href="https://dingsheng.github.io/2013/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+    <id>https://dingsheng.github.io/2013/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
     <published>2013-12-24T15:33:26.000Z</published>
     <updated>2024-10-24T06:40:31.120Z</updated>
     
@@ -273,8 +273,8 @@
   
   <entry>
     <title>中文測試</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</id>
+    <link href="https://dingsheng.github.io/2013/12/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    <id>https://dingsheng.github.io/2013/12/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</id>
     <published>2013-12-24T15:31:30.000Z</published>
     <updated>2024-10-24T06:40:31.120Z</updated>
     
@@ -295,8 +295,8 @@
   
   <entry>
     <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/long-title/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/long-title/</id>
+    <link href="https://dingsheng.github.io/2013/12/long-title/"/>
+    <id>https://dingsheng.github.io/2013/12/long-title/</id>
     <published>2013-12-24T15:31:06.000Z</published>
     <updated>2024-10-24T06:40:31.118Z</updated>
     
@@ -316,8 +316,8 @@
   
   <entry>
     <title>Categories</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/categories/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/categories/</id>
+    <link href="https://dingsheng.github.io/2013/12/categories/"/>
+    <id>https://dingsheng.github.io/2013/12/categories/</id>
     <published>2013-12-24T15:30:09.000Z</published>
     <updated>2024-10-24T06:40:31.115Z</updated>
     
@@ -332,19 +332,19 @@
     
     
     
-    <category term="Foo" scheme="https://nyanpasu.space/hexo-theme-maoblog/categories/Foo/"/>
+    <category term="Foo" scheme="https://dingsheng.github.io/categories/Foo/"/>
     
-    <category term="Bar" scheme="https://nyanpasu.space/hexo-theme-maoblog/categories/Foo/Bar/"/>
+    <category term="Bar" scheme="https://dingsheng.github.io/categories/Foo/Bar/"/>
     
-    <category term="Baz" scheme="https://nyanpasu.space/hexo-theme-maoblog/categories/Foo/Bar/Baz/"/>
+    <category term="Baz" scheme="https://dingsheng.github.io/categories/Foo/Bar/Baz/"/>
     
     
   </entry>
   
   <entry>
     <title>Tags</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/tags/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/tags/</id>
+    <link href="https://dingsheng.github.io/2013/12/tags/"/>
+    <id>https://dingsheng.github.io/2013/12/tags/</id>
     <published>2013-12-24T15:29:53.000Z</published>
     <updated>2024-10-24T06:40:31.119Z</updated>
     
@@ -360,18 +360,18 @@
     
     
     
-    <category term="Foo" scheme="https://nyanpasu.space/hexo-theme-maoblog/tags/Foo/"/>
+    <category term="Foo" scheme="https://dingsheng.github.io/tags/Foo/"/>
     
-    <category term="Bar" scheme="https://nyanpasu.space/hexo-theme-maoblog/tags/Bar/"/>
+    <category term="Bar" scheme="https://dingsheng.github.io/tags/Bar/"/>
     
-    <category term="Baz" scheme="https://nyanpasu.space/hexo-theme-maoblog/tags/Baz/"/>
+    <category term="Baz" scheme="https://dingsheng.github.io/tags/Baz/"/>
     
   </entry>
   
   <entry>
     <title>Elements</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/elements/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/elements/</id>
+    <link href="https://dingsheng.github.io/2013/12/elements/"/>
+    <id>https://dingsheng.github.io/2013/12/elements/</id>
     <published>2013-12-24T15:29:08.000Z</published>
     <updated>2024-10-24T06:40:31.116Z</updated>
     
@@ -390,8 +390,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://nyanpasu.space/hexo-theme-maoblog/2013/12/hello-world/"/>
-    <id>https://nyanpasu.space/hexo-theme-maoblog/2013/12/hello-world/</id>
+    <link href="https://dingsheng.github.io/2013/12/hello-world/"/>
+    <id>https://dingsheng.github.io/2013/12/hello-world/</id>
     <published>2013-12-24T09:49:32.000Z</published>
     <updated>2024-10-24T06:40:31.117Z</updated>
     
